@@ -4,6 +4,11 @@
     "description": "Thanatos color theme",
     "version": "0.0.2",
     "publisher": "fede-crc",
+    "icon": "images/thanatos-icon.png",
+    "galleryBanner": {
+        "color": "#1a2b3c",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.38.0"
     },
