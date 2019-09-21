@@ -82,7 +82,7 @@
 		"terminal.ansiRed": "#d47186",
 		"terminal.ansiWhite": "#fef8ec",
 		"terminal.ansiYellow": "#d8cb32",
-		"terminal.selectionBackground": "#fef8ec",
+		"terminal.selectionBackground": "#7799ba70",
 		"terminalCursor.background": "#36475c",
 		"terminalCursor.foreground": "#fef8ec",
 
