@@ -7,6 +7,12 @@
 		"editor.lineHighlightBackground": "#193153",
 		"editor.selectionBackground": "#fef8ec" ,
 		"editor.selectionHighlightBackground": "#fef8ec33",
+		"editor.rangeHighlightBackground": "#0099adaa",
+		"editorError.foreground": "#ce4458",
+		"editorWarning.foreground": "#d8cb32",
+		"editorInfo.foreground": "#fef8ec",
+		"editorHint.foreground": "#e09887",
+
 		"editorLineNumber.activeForeground": "#fef8ec",
 		"editorCursor.foreground": "#fef8ec",
 		"editorGroupHeader.tabsBackground": "#36475c",
