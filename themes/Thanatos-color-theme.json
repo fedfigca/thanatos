@@ -13,11 +13,11 @@
 		"editorHoverWidget.background": "#36475c",
 		"editorWhitespace.foreground": "#fef8ec20",
 
-		"tab.border": "#004c71",
+		"tab.border": "#004c7150",
 		"tab.activeBackground": "#1a2b3c",
 		"tab.activeForeground": "#fef8ec",
 		"tab.activeModifiedBorder": "#0099ad",
-		"tab.inactiveBackground": "#09324a",
+		"tab.inactiveBackground": "#1a2b3c60",
 
 		"sideBar.foreground": "#fef8ec",
 		"sideBarTitle.foreground": "#fef8ec",
