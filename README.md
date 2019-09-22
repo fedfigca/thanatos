@@ -6,6 +6,8 @@ Based and inspired on other color schemes and things I liked here and there, som
 
 ![Thanatos Screen Shot](images/thanatos-screenshot-1.jpg)
 
+![Colors Used](images/thanatos-colors.jpg)
+
 If you want to have Bracket Pair Colorizer match the theme, here's some code to get you started
 ```
 "bracket-pair-colorizer-2.colors": [
