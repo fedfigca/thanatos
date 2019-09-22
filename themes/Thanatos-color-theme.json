@@ -94,7 +94,7 @@
 		"dropdown.foreground": "#fef8ec",
 
 		"notifications.background": "#36475c",
-		"notifications.foreground": "#fef8fc",
+		"notifications.foreground": "#fef8ec",
 
 		"settings.headerForeground": "#fef8ec",
 		"selection.background": "#7799ba"
@@ -127,7 +127,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#fef8ec"
 			}
 		},
 		{
