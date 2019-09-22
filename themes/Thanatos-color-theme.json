@@ -9,6 +9,8 @@
 		"editor.selectionHighlightBackground": "#fef8ec33",
 		"editor.rangeHighlightBackground": "#0099adaa",
 		"editor.hoverHighlightBackground": "#637d9688",
+		"editor.findMatchBackground": "#fef8ec",
+		"editor.findMatchHighlightBackground": "#ce445870",
 		"editorError.foreground": "#ce4458",
 		"editorWarning.foreground": "#d8cb32",
 		"editorInfo.foreground": "#fef8ec",
@@ -20,6 +22,7 @@
 		"editorSuggestWidget.border": "#fef8ec20",
 		"editorSuggestWidget.selectedBackground": "#062f4a",
 		"editorWhitespace.foreground": "#fef8ec20",
+
 		"input.background": "#1a2b3c",
 		"input.foreground": "#fef8ec",
 		"input.border": "#fef8ec60",
@@ -67,8 +70,8 @@
 		"terminal.border": "#36475c",
 		"terminal.foreground": "#e09887",
 		"terminal.ansiBlack": "#040404",
-		"terminal.ansiBlue": "#637d96",
-		"terminal.ansiBrightBlack": "#040404",
+		"terminal.ansiBlue": "#062f4a",
+		"terminal.ansiBrightBlack": "#3c3c3c",
 		"terminal.ansiBrightBlue": "#7799ba",
 		"terminal.ansiBrightCyan": "#008486",
 		"terminal.ansiBrightGreen": "#0099ad",
@@ -90,7 +93,10 @@
 		"dropdown.foreground": "#fef8ec",
 
 		"notifications.background": "#36475c",
-		"notifications.foreground": "#fef8fc"
+		"notifications.foreground": "#fef8fc",
+
+		"settings.headerForeground": "#fef8ec",
+		"selection.background": "#7799ba"
 	},
 	"tokenColors": [
 		{
