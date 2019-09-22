@@ -227,7 +227,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#dc835b"
+				"foreground": "#fef8ec"
 			}
 		},
 		{
@@ -281,7 +281,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#7799ba"
+				"foreground": "#e09887"
 			}
 		},
 		{
@@ -290,7 +290,7 @@
 				"entity.other.attribute-name.class.css"
 			],
 			"settings": {
-				"foreground": "#e09887",
+				"foreground": "#d8cb32",
 				"fontStyle": "italic"
 			}
 		},
