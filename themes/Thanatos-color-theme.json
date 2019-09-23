@@ -179,7 +179,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f07178cf"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#928ba6"
+				"foreground": "#dc835b"
 			}
 		},
 		{
@@ -725,6 +725,35 @@
 			],
 			"settings": {
 				"foreground": "#1880a1"
+			}
+		},
+		{
+			"name": "Twig - Section Tag",
+			"scope": [
+				"punctuation.section.tag.twig"
+			],
+			"settings": {
+				"foreground": "#0e9bd1",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"name": "Twig - Keyword Control",
+			"scope": [
+				"keyword.control.twig"
+			],
+			"settings": {
+				"foreground": "#d8cb32",
+			}
+		},
+		{
+			"name": "Twig - Keyword Logical Operator",
+			"scope": [
+				"keyword.operator.logical.twig"
+			],
+			"settings": {
+				"foreground": "#0099ad",
+				"fontStyle": "italic"
 			}
 		}
 	]
