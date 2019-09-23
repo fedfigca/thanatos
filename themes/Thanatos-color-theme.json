@@ -127,7 +127,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#fef8ec"
+				"foreground": "#0e9bd1"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#fef8ec"
+				"foreground": "#0e9bd1"
 			}
 		},
 		{
