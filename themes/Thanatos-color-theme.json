@@ -11,6 +11,7 @@
 		"editor.hoverHighlightBackground": "#637d9688",
 		"editor.findMatchBackground": "#fef8ec",
 		"editor.findMatchHighlightBackground": "#ce445870",
+		"editor.findMatchHighlightBorder": "#dc835b",
 		"editorError.foreground": "#ce4458",
 		"editorWarning.foreground": "#d8cb32",
 		"editorInfo.foreground": "#fef8ec",
