@@ -1,5 +1,9 @@
 # Change Log
 
+## **0.1.4**
+
+- Improves Suggestion Widget colors
+
 ## **0.1.3**
 
 - Improves Terminal colors

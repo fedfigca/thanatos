@@ -19,9 +19,11 @@
 		"editorLineNumber.activeForeground": "#fef8ec",
 		"editorCursor.foreground": "#fef8ec",
 		"editorGroupHeader.tabsBackground": "#36475c",
-		"editorWidget.background": "#36475c",
+		"editorWidget.background": "#36475b",
 		"editorSuggestWidget.border": "#fef8ec20",
-		"editorSuggestWidget.selectedBackground": "#062f4a",
+		"editorSuggestWidget.selectedBackground": "#ce4458",
+		"editorSuggestWidget.foreground": "#fef8ecbb",
+		"editorSuggestWidget.highlightForeground": "#fef8ec",
 		"editorWhitespace.foreground": "#fef8ec20",
 
 		"input.background": "#1a2b3c",
