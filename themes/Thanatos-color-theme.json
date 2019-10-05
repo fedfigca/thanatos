@@ -6,12 +6,17 @@
 		"editor.foreground": "#e09887",
 		"editor.lineHighlightBackground": "#193153",
 		"editor.selectionBackground": "#fef8ec" ,
-		"editor.selectionHighlightBackground": "#fef8ec33",
+		"editor.selectionHighlightBackground": "#fef8ec00",
+		"editor.selectionHighlightBorder": "#0e9bd180",
 		"editor.rangeHighlightBackground": "#0099adaa",
 		"editor.hoverHighlightBackground": "#637d9688",
 		"editor.findMatchBackground": "#fef8ec",
 		"editor.findMatchHighlightBackground": "#ce445870",
 		"editor.findMatchHighlightBorder": "#dc835b",
+		"editor.wordHighlightBackground": "#637d9600",
+		"editor.wordHighlightBorder": "#00848890",
+		"editor.wordHighlightStrongBackground": "#0099ad35",
+		"editor.wordHighlightStrongBorder": "#d8cb3280",
 		"editorError.foreground": "#ce4458",
 		"editorWarning.foreground": "#d8cb32",
 		"editorInfo.foreground": "#fef8ec",
@@ -634,7 +639,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -746,7 +751,7 @@
 				"keyword.control.twig"
 			],
 			"settings": {
-				"foreground": "#d8cb32",
+				"foreground": "#d8cb32"
 			}
 		},
 		{
