@@ -1,5 +1,10 @@
 # Change Log
 
+## **1.0.0** 2019-10-14
+
+- First major release
+- Improved terminal colors
+
 ## **0.1.5** 2019-10-05
 
 - Improves highlighted words behavior, use subtle borders instead of backgrounds
