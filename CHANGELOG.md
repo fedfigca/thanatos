@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.1.0** 2019-12-10
+
+- Implements new vscode theme features `activityBar.activeBorder` and `activityBar.activeBackground`
+
 ## **1.0.0** 2019-10-14
 
 - First major release

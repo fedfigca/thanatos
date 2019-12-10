@@ -52,6 +52,9 @@
 
 		"activityBar.background": "#637d96",
 		"activityBar.foreground": "#fef8ec",
+		"activityBar.activeBorder": "#fef8eccc",
+		"activityBar.activeBackground": "#0e639c50",
+		"activityBar.inactiveForeground": "#fef8ec80",
 		"activityBarBadge.background": "#0099ad",
 		"activityBarBadge.foreground": "#fef8ec",
 
@@ -66,7 +69,7 @@
 		"titleBar.activeBackground": "#1a2b3c",
 		"titleBar.activeForeground": "#fef8ec",
 		"titleBar.inactiveBackground": "#637d96",
-		"titleBar.inactiveForeground": "#fef8ec50",
+		"titleBar.inactiveForeground": "#fef8ec80",
 
 		"extensionButton.prominentBackground": "#0099ad",
 		"extensionButton.prominentForeground": "#fef8ec",
