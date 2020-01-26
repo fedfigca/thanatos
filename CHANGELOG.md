@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.1.1** 2020-26-01
+
+- Improves light blue tones and inactive foregrounds for activity bar and title bar
+
 ## **1.1.0** 2019-12-10
 
 - Implements new vscode theme features `activityBar.activeBorder` and `activityBar.activeBackground`
