@@ -22,9 +22,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Thanatos",
+                "label": "Thanatos Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Thanatos-color-theme.json"
+                "path": "./themes/Thanatos-dark-color-theme.json"
+            },
+            {
+                "label": "Thanatos Light",
+                "uiTheme": "vs",
+                "path": "./themes/Thanatos-light-color-theme.json"
             }
         ]
     }
