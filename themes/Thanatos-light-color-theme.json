@@ -9,9 +9,9 @@
 		"editor.selectionHighlightBackground": "#1a2b3c00",
 		"editor.selectionHighlightBorder": "#0e9bd180",
 		"editor.rangeHighlightBackground": "#0e639c40",
-		"editor.hoverHighlightBackground": "#3f506088",
+		"editor.hoverHighlightBackground": "#008a8e60",
 		"editor.findMatchBackground": "#1a2b3c50",
-		"editor.findMatchHighlightBackground": "#ce445870",
+		"editor.findMatchHighlightBackground": "#ce445820",
 		"editor.findMatchHighlightBorder": "#ce4559",
 		"editor.wordHighlightBackground": "#3f506000",
 		"editor.wordHighlightBorder": "#00848890",
@@ -23,7 +23,7 @@
 		"editorHint.foreground": "#3f5060",
 		"editorLineNumber.activeForeground": "#1a2b3c",
 		"editorCursor.foreground": "#1a2b3c",
-		"editorGroupHeader.tabsBackground": "#c8c8c4",
+		"editorGroupHeader.tabsBackground": "#00000015",
 		"editorWidget.background": "#ffffff",
 		"editorSuggestWidget.border": "#1a2b3c20",
 		"editorSuggestWidget.selectedBackground": "#c8c8c4",
@@ -39,8 +39,8 @@
 		"tab.border": "#004c7150",
 		"tab.activeBackground": "#f6f6f0",
 		"tab.activeForeground": "#1a2b3c",
-		"tab.activeModifiedBorder": "#1a2b3c",
-		"tab.inactiveBackground": "#c8c8c4",
+		"tab.activeModifiedBorder": "#3abec0",
+		"tab.inactiveBackground": "#00000005",
 		"tab.inactiveForeground": "#65737eaa",
 
 		"sideBar.foreground": "#1a2b3c",
@@ -50,11 +50,11 @@
 		"focusBorder": "#0e639c",
 		"list.activeSelectionForeground": "#f6f6f0",
 		"list.activeSelectionBackground": "#0e639c",
-		"list.inactiveSelectionBackground": "#0e639c",
-		"list.inactiveSelectionForeground": "#f6f6f0",
-		"list.hoverBackground": "#c8c8c4",
-		"list.hoverForeground": "#1a2b3c",
-		"list.focusBackground": "#e19887",
+		"list.inactiveSelectionBackground": "#0e639c35",
+		"list.inactiveSelectionForeground": "#1a2b3c",
+		"list.hoverBackground": "#4f647890",
+		"list.hoverForeground": "#f6f6f0",
+		"list.focusBackground": "#008a8eaa",
 		"list.focusForeground": "#f6f6f0",
 
 		"activityBar.background": "#4f6478",
@@ -101,16 +101,16 @@
 		"terminal.ansiCyan": "#008486",
 		"terminal.ansiGreen": "#008a8e",
 		"terminal.ansiMagenta": "#ab43aa",
-		"terminal.ansiRed": "#ce4559",
+		"terminal.ansiRed": "#e19887",
 		"terminal.ansiWhite": "#1a2b3c",
 		"terminal.ansiYellow": "#f4c430",
 		"terminal.selectionBackground": "#7799ba70",
-		"terminalCursor.background": "#faf0e600",
-		"terminalCursor.foreground": "#1a2b3c",
+		"terminalCursor.background": "#f6f6f0",
+		"terminalCursor.foreground": "#0e639c",
 
-		"dropdown.background": "#c8c8c4",
+		"dropdown.background": "#e8e8e2",
 		"dropdown.foreground": "#1a2b3c",
-		"dropdown.listBackground": "#c8c8c4",
+		"dropdown.listBackground": "#e8e8e2",
 		"button.background": "#0e639c",
 		"button.foreground": "#f6f6f0",
 		"button.hoverBackground": "#0e639cdd",
@@ -323,8 +323,29 @@
 				"entity.other.attribute-name.class.css"
 			],
 			"settings": {
-				"foreground": "#ce4559",
+				"foreground": "#ab43aa",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "CSS Property",
+			"scope": [
+				"support.type.property-name.css"
+			],
+			"settings": {
+				"foreground": "#1a2b3c",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "SCSS At Rule",
+			"scope": [
+				"keyword.control.at-rule.include.scss",
+				"punctuation.definition.keyword.scss"
+			],
+			"settings": {
+				"foreground": "#dc835b",
+				"fontStyle": ""
 			}
 		},
 		{
