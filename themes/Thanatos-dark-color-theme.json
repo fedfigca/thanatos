@@ -98,7 +98,7 @@
 		"terminal.ansiWhite": "#fef8ec",
 		"terminal.ansiYellow": "#d8cb32",
 		"terminal.selectionBackground": "#7799ba70",
-		"terminalCursor.background": "#36475c00",
+		"terminalCursor.background": "#1a2b3c",
 		"terminalCursor.foreground": "#fef8ec",
 
 		"dropdown.background": "#36475c",
