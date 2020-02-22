@@ -79,7 +79,7 @@
 		"titleBar.inactiveForeground": "#f6f6f0b0",
 
 		"extensionButton.prominentBackground": "#008a8e",
-		"extensionButton.prominentForeground": "#1a2b3c",
+		"extensionButton.prominentForeground": "#f6f6f0",
 
 		"menu.background": "#1a2b3c",
 		"menu.foreground": "#f6f6f0",
