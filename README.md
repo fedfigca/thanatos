@@ -1,12 +1,13 @@
 # Thanatos Color Theme
 
-## A dark theme that's easy to read, good for long sessions.
+## A theme that's easy to read, good for long sessions, includes Dark and Light themes.
 
 Based and inspired on other color schemes and things I liked here and there, some care was given to readability of selected text.
 
-![Thanatos Screen Shot](images/thanatos-screenshot-1.jpg)
+![Thanatos Dark Screen Shot](images/thanatos-screenshot-1.jpg)
 
-![Colors Used](images/thanatos-colors.jpg)
+![Thanatos Light Screen Shot](images/thanatos-screenshot-2.jpg)
+
 
 If you want to have Bracket Pair Colorizer match the theme, here's some code to get you started
 ```

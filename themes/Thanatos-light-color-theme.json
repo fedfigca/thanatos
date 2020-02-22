@@ -26,7 +26,7 @@
 		"editorGroupHeader.tabsBackground": "#00000015",
 		"editorWidget.background": "#ffffff",
 		"editorSuggestWidget.border": "#1a2b3c20",
-		"editorSuggestWidget.selectedBackground": "#c8c8c4",
+		"editorSuggestWidget.selectedBackground": "#008a8e60",
 		"editorSuggestWidget.foreground": "#1a2b3c",
 		"editorSuggestWidget.highlightForeground": "#0e639c",
 		"editorWhitespace.foreground": "#1a2b3c20",
@@ -65,7 +65,7 @@
 		"activityBarBadge.background": "#3abec0",
 		"activityBarBadge.foreground": "#f6f6f0",
 
-		"statusBar.background": "#faf0e6",
+		"statusBar.background": "#4f6478",
 		"statusBar.debuggingBackground": "#4f6478",
 		"statusBar.foreground": "#f6f6f0",
 		"statusBar.noFolderBackground": "#4f6478aa",
