@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.0.0** 2020-22-02
+
+- Adds Light theme
+
 ## **1.1.1** 2020-26-01
 
 - Improves light blue tones and inactive foregrounds for activity bar and title bar
