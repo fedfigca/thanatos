@@ -5,18 +5,19 @@
 		"editor.background": "#f6f6f0",
 		"editor.foreground": "#3f5060",
 		"editor.lineHighlightBackground": "#008a8e35",
-		"editor.selectionBackground": "#e19887",
+		"editor.selectionBackground": "#e1988775",
 		"editor.selectionHighlightBackground": "#1a2b3c00",
 		"editor.selectionHighlightBorder": "#0e9bd180",
 		"editor.rangeHighlightBackground": "#0e639c40",
-		"editor.hoverHighlightBackground": "#008a8e60",
+		"editor.hoverHighlightBackground": "#008a8e20",
 		"editor.findMatchBackground": "#1a2b3c50",
 		"editor.findMatchHighlightBackground": "#ce445820",
 		"editor.findMatchHighlightBorder": "#ce4559",
 		"editor.wordHighlightBackground": "#3f506000",
 		"editor.wordHighlightBorder": "#00848890",
-		"editor.wordHighlightStrongBackground": "#008a8e35",
+		"editor.wordHighlightStrongBackground": "#008a8e00",
 		"editor.wordHighlightStrongBorder": "#ce455980",
+		"editor.snippetTabstopHighlightBackground": "#e1988740",
 		"editorError.foreground": "#ce4458",
 		"editorWarning.foreground": "#ce4559",
 		"editorInfo.foreground": "#1a2b3c",
@@ -86,7 +87,7 @@
 		"widget.shadow": "#00000050",
 
 		"terminal.background": "#f6f6f0",
-		"terminal.border": "#faf0e6",
+		"terminal.border": "#1a2b3c",
 		"terminal.foreground": "#3f5060",
 		"terminal.ansiBlack": "#282C34",
 		"terminal.ansiBlue": "#0e9bd1",
@@ -97,13 +98,13 @@
 		"terminal.ansiBrightMagenta": "#ab43aa",
 		"terminal.ansiBrightRed": "#d47186",
 		"terminal.ansiBrightWhite": "#1a2b3c",
-		"terminal.ansiBrightYellow": "#f4c430",
+		"terminal.ansiBrightYellow": "#eaa221",
 		"terminal.ansiCyan": "#008486",
 		"terminal.ansiGreen": "#008a8e",
 		"terminal.ansiMagenta": "#ab43aa",
 		"terminal.ansiRed": "#e19887",
 		"terminal.ansiWhite": "#1a2b3c",
-		"terminal.ansiYellow": "#f4c430",
+		"terminal.ansiYellow": "#eaa221",
 		"terminal.selectionBackground": "#7799ba70",
 		"terminalCursor.background": "#f6f6f0",
 		"terminalCursor.foreground": "#0e639c",
@@ -315,6 +316,16 @@
 			],
 			"settings": {
 				"foreground": "#3f5060"
+			}
+		},
+		{
+			"name": "CSS Tag",
+			"scope": [
+				"entity.name.tag.css"
+			],
+			"settings": {
+				"foreground": "#008a8e",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
