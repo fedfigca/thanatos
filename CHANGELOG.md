@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.0.1** 2020-23-02
+
+- Improves Light theme colors
+- Fixes misc. bugs
+
 ## **2.0.0** 2020-22-02
 
 - Adds Light theme
