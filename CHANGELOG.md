@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.0.2** 2020-11-03
+
+- Improves Light theme terminal colors
+- Improves list hover color in Light theme
+
 ## **2.0.1** 2020-23-02
 
 - Improves Light theme colors
