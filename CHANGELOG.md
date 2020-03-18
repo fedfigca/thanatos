@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.0.3** 2020-18-03
+
+- Improves Dark theme terminal colors
+
 ## **2.0.2** 2020-11-03
 
 - Improves Light theme terminal colors
