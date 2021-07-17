@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.1.0** 2021-17-07
+
+- Modifies Dark theme's list colors for a new look
+- Improves Light theme's list and suggestion widget colors
+
 ## **2.0.3** 2020-18-03
 
 - Improves Dark theme terminal colors
