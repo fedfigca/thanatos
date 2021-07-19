@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.1.1** 2021-19-07
+
+- Improves Dark theme's list colors
+
 ## **2.1.0** 2021-17-07
 
 - Modifies Dark theme's list colors for a new look
