@@ -48,9 +48,10 @@
 		"focusBorder": "#928ba6",
 		"list.activeSelectionForeground": "#fef8ec",
 		"list.inactiveSelectionBackground": "#1a2c3b85",
-		"list.activeSelectionBackground": "#dc835b",
+		"list.activeSelectionBackground": "#0e639c",
+		"list.activeSelectionIconForeground": "#fef8ec",
 		"list.highlightForeground": "#0e9bd1",
-		"list.focusHighlightForeground": "#0e639c",
+		"list.focusHighlightForeground": "#e09887",
 		"list.hoverBackground": "#fef8ec20",
 
 		"activityBar.background": "#4f6478",
