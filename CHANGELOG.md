@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.1.2** 2021-19-07
+
+- Improves Dark theme's editor widget colors
+
 ## **2.1.1** 2021-19-07
 
 - Improves Dark theme's list colors
