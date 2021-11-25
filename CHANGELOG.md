@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.1.3** 2021-25-11
+
+- Adds colors for bracket pair guides
+
 ## **2.1.2** 2021-19-07
 
 - Improves Dark theme's editor widget colors
