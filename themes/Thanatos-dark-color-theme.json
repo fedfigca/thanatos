@@ -2,6 +2,7 @@
 	"name": "Thanatos",
 	"type": "dark",
 	"colors": {
+		"foreground": "#fef8ec",
 		"editor.background": "#1a2b3c",
 		"editor.foreground": "#e09887",
 		"editor.lineHighlightBackground": "#193153",
@@ -50,12 +51,16 @@
 		"input.foreground": "#fef8ec",
 		"input.border": "#fef8ec60",
 		"inputValidation.errorBackground": "#ce4458",
+		"icon.foreground": "#fef8ec",
 
 		"tab.border": "#004c7150",
 		"tab.activeBackground": "#1a2b3c",
 		"tab.activeForeground": "#fef8ec",
 		"tab.activeModifiedBorder": "#0099ad",
 		"tab.inactiveBackground": "#1a2b3c60",
+		"tab.inactiveForeground": "#637d96",
+		"tab.hoverBackground": "#637d96",
+		"tab.hoverForeground": "#f6f6f0",
 
 		"sideBar.foreground": "#fef8ec",
 		"sideBarTitle.foreground": "#fef8ec",

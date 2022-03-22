@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.1.4** 2022-22-03
+
+- Updates Light and Dark themes
+
 ## **2.1.3** 2021-25-11
 
 - Adds colors for bracket pair guides
